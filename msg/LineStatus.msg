@@ -8,6 +8,3 @@ uint8 trigger_type
 float32 freq
 uint32 offset_us
 uint8 duty_cycle_percent
----
-bool succeeded
-string msg

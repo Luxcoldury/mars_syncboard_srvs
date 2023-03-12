@@ -1,0 +1,3 @@
+uint32 baud
+uint32 offset_us
+bool inverted
